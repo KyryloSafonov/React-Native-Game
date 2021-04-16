@@ -28,6 +28,11 @@ const styleStartGameScreen = StyleSheet.create({
     width: 50,
     textAlign: 'center',
   },
+  numberBlock: {
+    paddingTop: 10,
+    fontSize: 20,
+    color: 'blue'
+  },
 });
 
 export default styleStartGameScreen;

@@ -93,7 +93,7 @@ const StartGameScreen = props => {
             </View>
           </View>
         </Card>
-        {confirmedOutput}
+        <Text style={styleStartGameScreen.numberBlock}>{confirmedOutput}</Text>
       </View>
     </TouchableWithoutFeedback>
   );
