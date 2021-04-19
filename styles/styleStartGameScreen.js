@@ -31,7 +31,11 @@ const styleStartGameScreen = StyleSheet.create({
   numberBlock: {
     paddingTop: 10,
     fontSize: 20,
-    color: 'blue'
+    color: 'blue',
+  },
+  summaryContainer: {
+    marginTop: 20,
+    alignItems: 'center',
   },
 });
 
